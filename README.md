@@ -1,0 +1,2 @@
+# hail_image
+The folder is named "hail_images" and contains two sub-folders, "is_Hail" and "no_Hail". The "is_Hail" folder contains the dataset with hail images, while the "no_Hail" folder contains the dataset without hail images. The files in both folders are named according to the following format: start time_end time_channel number_unique identifier_hail indicator (1: hail present, 0: no hail).
